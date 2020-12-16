@@ -4,8 +4,9 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date"
-  }
-  "users":[{
+  },
+  "users":
+  [{
   "name":"Dave",
   "id":42
   },
